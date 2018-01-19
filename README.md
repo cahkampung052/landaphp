@@ -1,7 +1,5 @@
 # Landa PHP
 
-Fungsi yang bisa digunakan untuk banyak proyek
-
 ### Generate gambar menjadi 3 ukuran (700x700, 350x350, 150x150)
 
 `createImg(PATHFILE, NAMAFILE, ID_UNIK, KUALITAS)`
