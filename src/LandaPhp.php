@@ -1,4 +1,3 @@
 <?php
-include "Global.php";
-include "Image.php";
-include "Response.php";
+include "inc/Global.php";
+include "inc/Image.php";

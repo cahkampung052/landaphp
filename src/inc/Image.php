@@ -1,7 +1,7 @@
 <?php
 /** IMAGE FUNCTION */
 
-function createImg($path, $filename, $id, $proporsional = false, $quality = 100)
+function createImg($path, $filename, $id, $quality = 100)
 {
     $newFileName = urlParsing($filename);
     $small       = $path . $id . '-150x150-' . $newFileName;
